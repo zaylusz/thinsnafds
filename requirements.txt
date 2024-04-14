@@ -1,0 +1,11 @@
+discord.py
+opencv-python
+Pillow
+aiohttp
+psutil
+pywin32
+requests
+mss
+pyautogui
+pygame
+pynput
